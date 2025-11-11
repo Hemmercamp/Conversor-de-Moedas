@@ -43,7 +43,7 @@ O site permite converter valores de **Real (BRL)** para **Dólar (USD)**, **Euro
 ---
 
 ## 🧑‍💻 Autor
-**Emerson Eruedinos da Silva**  
+**Emerson Eruédinos da Silva**  
 💼 GitHub: [@Hemmercamp](https://github.com/Hemmercamp)  
 📧 E-mail: contatohemersonoficial@gmail.com
 
