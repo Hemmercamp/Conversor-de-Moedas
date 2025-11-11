@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para praticar **HTML**, **CSS** e **JavaScript**, 
 
 O objetivo foi exercitar a manipulação do **DOM**, o uso de **funções assíncronas (async/await)** e a integração com APIs externas, além de consolidar o uso de formatação monetária com o objeto `Intl.NumberFormat`.
 
-O site permite converter valores de **Real (BRL)** para **Dólar (USD)** ou **Euro (EUR)**, com exibição dinâmica de bandeiras e nomes das moedas.
+O site permite converter valores de **Real (BRL)** para **Dólar (USD)**, **Euro (EUR)**, **Libra Esterlina (GBP)** e **Bitcoin (BTC)**, com exibição dinâmica de bandeiras e nomes das moedas.
 
 ---
 
@@ -25,7 +25,7 @@ O site permite converter valores de **Real (BRL)** para **Dólar (USD)** ou **Eu
 ---
 
 ## ⚙️ Funcionalidades
-- Conversão entre **BRL**, **USD** e **EUR**  
+- Conversão entre **BRL**, **USD**, **EUR**, **GBP** e **BTC**  
 - Atualização automática das taxas de câmbio via API  
 - Exibição do nome e bandeira correspondentes à moeda selecionada  
 - Formatação de valores segundo o padrão de cada país  
@@ -49,4 +49,4 @@ O site permite converter valores de **Real (BRL)** para **Dólar (USD)** ou **Eu
 
 ---
 
-✨ *Feito com foco em aprendizado e boas práticas de código!*
+✨ *Feito com foco em aprendizado, integração de APIs e boas práticas de código!*
